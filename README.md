@@ -4,7 +4,6 @@ How to make float-based grid using CSS and SASS
 
 ## Technologies
 
-* JavaScript
 * Sass
 * HTML
 * Gulp.js
@@ -32,5 +31,3 @@ gulp sass
 ## Licence
 
 MIT License
-
-Copyright (c) 2019 Daniel Jarosz
