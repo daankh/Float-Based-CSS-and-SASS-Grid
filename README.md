@@ -1,6 +1,6 @@
 # Float-Based-CSS-and-SASS-Grid
 
-How to make float-based Grid using CSS and SASS 
+How to make float-based grid using CSS and SASS 
 
 ## Technologies
 
